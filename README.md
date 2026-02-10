@@ -46,6 +46,7 @@ https://github.com/tkanov/electrical-engineering-breadboard
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/igortkanov)
+[LinkedIn](https://linkedin.com/in/tkanov)
+
 [Blog](https://igortkanov.com)
 

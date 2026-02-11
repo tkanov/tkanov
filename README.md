@@ -7,21 +7,13 @@ Most of my time goes to coding and aligning engineering, product, and leadership
 
 ## What I do
 
-### 🏗️ Architecture
+**Architecture**: Maintainable systems that still make sense a year from now.
 
-Maintainable systems that still make sense a year from now.
+**Delivery**: Predictable shipping with minimal ceremony.
 
-### ✔️ Delivery
+**Operations and security**: Scaling without breaking things. Security that doesn't get in the way. Infrastructure that supports growth instead of fighting it.
 
-Predictable shipping with minimal ceremony.
-
-### 🔒 Operations and security
-
-Scaling without breaking things. Security that doesn't get in the way. Infrastructure that supports growth instead of fighting it.
-
-### 🤖 GenAI
-
-LLM observability, tracing, evaluation, and cost management − built for production realities.
+**GenAI**: LLM observability, tracing, evaluation, and cost management − built for production realities.
 
 ## Tech stack
 

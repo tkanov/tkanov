@@ -3,7 +3,7 @@
 I write code, lead teams, and make complex systems work in production − aligning engineering, product, and leadership to turn ambitious ideas into technology that scales and stays secure.
 
 
-## What I do
+## What I (like to) do
 
 **Architecture**: Maintainable systems that still make sense a year from now.
 
@@ -27,7 +27,7 @@ I write code, lead teams, and make complex systems work in production − aligni
 
 ## ⚡ Side quests
 
-When not writing software, I'm building things on a breadboard. ESP32 firmware, sensors, basic circuits − the kind of stuff that reminds you why hardware is hard 👷
+When not writing software, I'm building things on a breadboard. ESP32 firmware, sensors, basic circuits, and the like
 
 [Electrical engineering breadboard](https://github.com/tkanov/electrical-engineering-breadboard)
 
@@ -35,6 +35,4 @@ When not writing software, I'm building things on a breadboard. ESP32 firmware, 
 ## Contact
 
 [LinkedIn](https://linkedin.com/in/tkanov)
-
-[Blog](https://igortkanov.com)
 

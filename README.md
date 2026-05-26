@@ -1,38 +1,51 @@
 ## Hi, I'm Igor 👋
 
-I write code, lead teams, and make complex systems work in production − aligning engineering, product, and leadership to turn ambitious ideas into technology that scales and stays secure.
+Tech Lead / Staff Engineer based in Amsterdam, working across regulated/safety-critical environments and AI-native engineering — with roots in internet-exchange-scale network automation. CISSP, GCSA, Generative AI Leader.
 
 
-## What I (like to) do
+## What I do
 
 **Architecture**: Maintainable systems that still make sense a year from now.
 
 **Delivery**: Predictable shipping with minimal ceremony.
 
-**Operations and security**: Infrastructure that scales with the team instead of slowing it down − security included, not bolted on.
+**Operations and security**: Infrastructure that scales with the team instead of slowing it down.
 
-**GenAI**: LLM observability, tracing, evaluation, and cost management − built for production realities.
+**GenAI in production**: LLM integration, RAG, and observability (Langfuse). Building toward agentic systems and MCP-based tool use.
 
 ## Tech stack
 
 - **Languages:** Python, Ruby, Go, TypeScript/JavaScript  
 - **Cloud and infra:** AWS, GCP, Kubernetes, Docker, Terraform  
-- **GenAI:** LLM integration, RAG, AI-assisted workflows
+- **GenAI:** LLM integration, RAG, Langfuse
+- **Security:** CISSP, GCSA, Generative AI Leader
 
 ## Currently
 
 - **[EgressLens](https://github.com/tkanov/egresslens)** − monitor outbound network activity from Python apps running in Docker.
 - **[LLM Observability PoC](https://github.com/tkanov/llm-observability-poc)** − a Langfuse-based PoC for LLM observability in Python.
-- **[ESP32 Kobo Page Turner](https://github.com/tkanov/esp32-bluetooth-remote-kobo)** − ESP32-S3 BLE HID page-turner for Kobo e-readers.
+- **Exploring**: agentic RAG (LangGraph, MCP), LLM evals (promptfoo, Inspect AI), and high-throughput inference (vLLM).
 
-## ⚡ Side quests
+## Writing
 
-When not writing software, I'm building things on a breadboard. ESP32 firmware, sensors, basic circuits, and the like
+**On AI engineering**
+- [STATUS.md: a shared file for multi-agent work](https://igortkanov.com/status-md-for-multi-agent-work/)
+- [A minimal LLM Ops stack with tracing and model costs](https://igortkanov.com/minimal-llm-ops-stack-with-tracing-and-model-costs-langfuse/)
+- [RAG: A (mostly) no-buzzword explanation](https://igortkanov.com/rag-a-no-buzzword-explanation/)
 
-[Electrical engineering breadboard](https://github.com/tkanov/electrical-engineering-breadboard)
-
+**On security**
+- [Crimediggers: a cybersecurity challenge](https://igortkanov.com/crimediggers-a-cybersecurity-challenge/)
+- [Solving the ShadowCitadel blue-team challenge](https://igortkanov.com/solving-the-shadowcitadel-lab-blue-team-challenge/)
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/tkanov)
+- Amsterdam, NL
+- contact@igortkanov.com
+- [LinkedIn](https://linkedin.com/in/tkanov) · [Blog](https://igortkanov.com)
 
+
+## ⚡ Side quests
+
+When not writing software, I'm building things on a breadboard. ESP32 firmware, sensors, basic circuits, and the like.
+
+[Electrical engineering breadboard](https://github.com/tkanov/electrical-engineering-breadboard)

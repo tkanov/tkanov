@@ -29,6 +29,7 @@ Tech Lead / Staff Engineer based in Amsterdam, working across regulated/safety-c
 ## Writing
 
 **On AI engineering**
+- [The 1M context window: what it costs you](https://igortkanov.com/1m-context-window-what-it-costs-you/)
 - [STATUS.md: a shared file for multi-agent work](https://igortkanov.com/status-md-for-multi-agent-work/)
 - [A minimal LLM Ops stack with tracing and model costs](https://igortkanov.com/minimal-llm-ops-stack-with-tracing-and-model-costs-langfuse/)
 - [RAG: A (mostly) no-buzzword explanation](https://igortkanov.com/rag-a-no-buzzword-explanation/)

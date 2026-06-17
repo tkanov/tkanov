@@ -24,6 +24,7 @@ Tech Lead / Staff Engineer based in Amsterdam, working across regulated/safety-c
 
 - **[EgressLens](https://github.com/tkanov/egresslens)** − monitor outbound network activity from Python apps running in Docker.
 - **[LLM Observability PoC](https://github.com/tkanov/llm-observability-poc)** − a Langfuse-based PoC for LLM observability in Python.
+- **[claude-lamp](https://github.com/tkanov/claude-lamp)** − menu-bar status light for Claude Code on macOS: red when it needs you, green when it's done.
 - **Exploring**: agentic RAG (LangGraph, MCP), LLM evals (promptfoo, Inspect AI), and high-throughput inference (vLLM).
 
 ## Writing

@@ -1,6 +1,6 @@
 ## Hi, I'm Igor 👋
 
-Tech Lead / Staff Engineer based in Amsterdam, working across regulated/safety-critical environments and AI-native engineering — with roots in internet-exchange-scale network automation. CISSP, GCSA, Generative AI Leader.
+Tech Lead / Staff Engineer based in Amsterdam, working across regulated/safety-critical environments and AI-native engineering − with roots in internet-exchange-scale network automation. CISSP, GCSA, Generative AI Leader.
 
 
 ## What I do
@@ -11,11 +11,11 @@ Tech Lead / Staff Engineer based in Amsterdam, working across regulated/safety-c
 
 **Operations and security**: Infrastructure that scales with the team instead of slowing it down.
 
-**GenAI in production**: LLM integration, RAG, and observability (Langfuse). Building toward agentic systems and MCP-based tool use.
+**GenAI in production**: LLM integration, RAG, and observability. Building toward agentic systems and MCP-based tool use.
 
 ## Tech stack
 
-- **Languages:** Python, Ruby, Go, TypeScript/JavaScript  
+- **Languages:** Python, Ruby, Java, TypeScript/JavaScript  
 - **Cloud and infra:** AWS, GCP, Kubernetes, Docker, Terraform  
 - **GenAI:** LLM integration, RAG, Langfuse
 - **Security:** CISSP, GCSA, Generative AI Leader

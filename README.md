@@ -2,7 +2,7 @@
 
 Software engineer and architect based in Amsterdam. I work across regulated and safety-critical environments and on AI engineering in production.
 
-Background in internet-exchange-scale network automation. CISSP, GCSA.
+Backend, platform, and cloud engineering across B2B SaaS products – e-commerce, workforce management, real estate, aviation. Earlier roots in internet-exchange-scale network automation. CISSP, GCSA.
 
 ## What I do
 

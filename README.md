@@ -54,4 +54,4 @@ Background in internet-exchange-scale network automation. CISSP, GCSA.
 
 ## Side quests
 
-Hardware tinkering on the side — ESP32, sensors, radio, basic circuits. [Electrical engineering breadboard](https://github.com/tkanov/electrical-engineering-breadboard)
+Hardware tinkering on the side – ESP32, sensors, radio, basic circuits. [Electrical engineering breadboard](https://github.com/tkanov/electrical-engineering-breadboard)

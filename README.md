@@ -1,7 +1,8 @@
 ## Hi, I'm Igor 👋
 
-Tech Lead / Staff Engineer / Software Architect based in Amsterdam, working across regulated/safety-critical environments and AI-native engineering − with roots in internet-exchange-scale network automation. CISSP, GCSA, Generative AI Leader.
+Software engineer and architect based in Amsterdam. I work across regulated and safety-critical environments and on AI engineering in production.
 
+Background in internet-exchange-scale network automation. CISSP, GCSA.
 
 ## What I do
 
@@ -13,31 +14,36 @@ Tech Lead / Staff Engineer / Software Architect based in Amsterdam, working acro
 
 **GenAI in production**: LLM integration, RAG, and observability. Building toward agentic systems and MCP-based tool use.
 
-## Tech stack
+## Writing
 
-- **Languages:** Python, Ruby, Java, TypeScript/JavaScript  
-- **Cloud and infra:** AWS, GCP, Azure, Kubernetes, Docker, Terraform  
-- **GenAI:** LLM integration, RAG, Langfuse
-- **Security certs:** CISSP, GCSA, Generative AI Leader
+**AI engineering**
+- [Prefix poisoning: how one line disables prompt caching](https://igortkanov.com/prefix-poisoning-prompt-cache/)
+- [The literal reader](https://igortkanov.com/the-literal-reader/)
+- [The EU AI Act for small companies](https://igortkanov.com/eu-ai-act-disclosure-deadline/)
+- [The 1M context window, and what it actually costs you](https://igortkanov.com/1m-context-window-what-it-costs-you/)
+
+**Security**
+- [Solving the Openfire Lab blue-team challenge](https://igortkanov.com/solving-the-openfire-lab-blue-team-challenge/)
+- [Solving the ShadowCitadel blue-team challenge](https://igortkanov.com/solving-the-shadowcitadel-lab-blue-team-challenge/)
+- [Crimediggers: a cybersecurity challenge](https://igortkanov.com/crimediggers-a-cybersecurity-challenge/)
+
+**Hardware**
+- [Touch-controlled table lamp with ESP32 and WLED](https://igortkanov.com/esp32-wled-touch-lamp-toy-egg/)
+- [How I spent a weekend reinventing a 50-cent chip](https://igortkanov.com/optocouplers/)
+- [DIY Bluetooth Kobo page-turner remote with ESP32 and Lilka](https://igortkanov.com/lilka-kobo-page-turner-remote-esp32-ble/)
 
 ## Currently
 
 - **[EgressLens](https://github.com/tkanov/egresslens)** − monitor outbound network activity from Python apps running in Docker.
 - **[LLM Observability PoC](https://github.com/tkanov/llm-observability-poc)** − a Langfuse-based PoC for LLM observability in Python.
-- **[claude-lamp](https://github.com/tkanov/claude-lamp)** − menu-bar status light for Claude Code on macOS: red when it needs you, green when it's done.
 - **Exploring**: agentic RAG (LangGraph, MCP), LLM evals (promptfoo, Inspect AI), and high-throughput inference (vLLM).
 
-## Writing
+## Tech stack
 
-**On AI engineering**
-- [The 1M context window: what it costs you](https://igortkanov.com/1m-context-window-what-it-costs-you/)
-- [STATUS.md: a shared file for multi-agent work](https://igortkanov.com/status-md-for-multi-agent-work/)
-- [A minimal LLM Ops stack with tracing and model costs](https://igortkanov.com/minimal-llm-ops-stack-with-tracing-and-model-costs-langfuse/)
-- [RAG: A (mostly) no-buzzword explanation](https://igortkanov.com/rag-a-no-buzzword-explanation/)
-
-**On security**
-- [Crimediggers: a cybersecurity challenge](https://igortkanov.com/crimediggers-a-cybersecurity-challenge/)
-- [Solving the ShadowCitadel blue-team challenge](https://igortkanov.com/solving-the-shadowcitadel-lab-blue-team-challenge/)
+- **Languages:** Python, Ruby, Java, TypeScript/JavaScript
+- **Cloud and infra:** AWS, GCP, Azure, Kubernetes, Docker, Terraform
+- **GenAI:** LLM integration, RAG, Langfuse
+- **Security certs:** CISSP, GCSA
 
 ## Contact
 
@@ -46,8 +52,6 @@ Tech Lead / Staff Engineer / Software Architect based in Amsterdam, working acro
 - [LinkedIn](https://linkedin.com/in/tkanov) · [Blog](https://igortkanov.com)
 
 
-## ⚡ Side quests
+## Side quests
 
-When not writing software, I'm building things on a breadboard. ESP32 firmware, sensors, radio, basic circuits, and the like.
-
-[Electrical engineering breadboard](https://github.com/tkanov/electrical-engineering-breadboard)
+Hardware tinkering on the side — ESP32, sensors, radio, basic circuits. [Electrical engineering breadboard](https://github.com/tkanov/electrical-engineering-breadboard)

@@ -32,11 +32,10 @@ Backend, platform, and cloud engineering across B2B SaaS products – e-commerce
 - [How I spent a weekend reinventing a 50-cent chip](https://igortkanov.com/optocouplers/)
 - [DIY Bluetooth Kobo page-turner remote with ESP32 and Lilka](https://igortkanov.com/lilka-kobo-page-turner-remote-esp32-ble/)
 
-## Currently
+## Projects
 
 - **[EgressLens](https://github.com/tkanov/egresslens)** − monitor outbound network activity from Python apps running in Docker.
 - **[LLM Observability PoC](https://github.com/tkanov/llm-observability-poc)** − a Langfuse-based PoC for LLM observability in Python.
-- **Exploring**: agentic RAG (LangGraph, MCP), LLM evals (promptfoo, Inspect AI), and high-throughput inference (vLLM).
 
 ## Tech stack
 
